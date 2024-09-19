@@ -126,6 +126,7 @@
     border: 0px solid transparent;
   }
   #M{
+      display: block;
     user-select: none;
     color: rgb(185, 184, 184);
     font-weight: 600;
