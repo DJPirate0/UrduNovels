@@ -126,6 +126,7 @@
     border: 0px solid transparent;
   }
   #M{
+      padding: 0px 0px;
       display: block;
     user-select: none;
     color: rgb(185, 184, 184);
